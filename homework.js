@@ -196,7 +196,7 @@ const verdict = declareWeapon();
 console.log(verdict);
 
 //The weapon is Candle Stick.
-//as none of the variables have been restricted and thus are all global, they will always update on a global scale.
+//due to strict equlity only room and murdered update
 
 Episode 9
 
